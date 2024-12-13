@@ -1,0 +1,7 @@
+[PROJECT]
+NAME = "Project A"
+MEMBERS = ["Alice", "Bob", "Charlie"]
+TASKS = [
+    { NAME = "Task 1", HOURS = 5 },
+    { NAME = "Task 2", HOURS = 3 }
+]

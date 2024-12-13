@@ -1,0 +1,5 @@
+repository_path = "D:/Programs/Git/repositories/homework-2"
+
+output_path = "C:/Users/bigol/PycharmProjects/2_2/graph.dot"
+
+date_cutoff = "2024-12-28"
